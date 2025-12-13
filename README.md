@@ -2,36 +2,37 @@
 
 A professional Windows desktop application simulating an industrial control station with real-time telemetry monitoring, state management, and alert systems.
 
-## Tech Stack
-
+<div align="center">
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+</div>
 
 ---
 
 ## Features
 
-- ✅ Real-time telemetry simulation (Temperature, Pressure, Power Output)
-- ✅ State machine with validated transitions (IDLE → RUNNING → FAULT)
-- ✅ Severity-based alert system (INFO, WARNING, CRITICAL)
-- ✅ Configurable threshold monitoring
-- ✅ MVVM architecture with dependency injection
-- ✅ Modern dark theme UI
+- Real-time telemetry simulation (Temperature, Pressure, Power Output)
+- State machine with validated transitions (IDLE → RUNNING → FAULT)
+- Severity-based alert system (INFO, WARNING, CRITICAL)
+- Configurable threshold monitoring
+- MVVM architecture with dependency injection
+- Modern dark theme UI
 
 ---
 
 ## Architecture
-
+<div align="center">
 ![System Architecture](sys_arch.png)
-
+</div>
 ---
 
 ## State Machine
-
+<div align="center">
 ![State Machine](st_mchn.png)
+</div>
 
 ## Installation
 
@@ -128,5 +129,3 @@ services.AddSingleton<ITelemetryDataSource, HardwareService>();
 MIT License
 
 ---
-
-**Status:** ✅ Production-ready
