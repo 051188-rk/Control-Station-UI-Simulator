@@ -25,7 +25,7 @@ A professional Windows desktop application simulating an industrial control stat
 
 ## Architecture
 <div align="center">    
-<img src="./sys_arch.png" alt="System Architecture" width="200" />
+<img src="./sys_arch.png" alt="System Architecture" width="900" />
   <br />
   <br />
 </div>
@@ -33,7 +33,7 @@ A professional Windows desktop application simulating an industrial control stat
 
 ## State Machine
 <div align="center">
-<img src="./st_mchn.png" alt="State Machine" width="200" />
+<img src="./st_mchn.png" alt="State Machine" width="500" />
   <br />
   <br />
 </div>  
