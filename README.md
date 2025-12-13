@@ -2,13 +2,13 @@
 
 A professional Windows desktop application simulating an industrial control station with real-time telemetry monitoring, state management, and alert systems.
 
-<div align="center">
+
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-</div>
+
 
 ---
 
@@ -24,15 +24,19 @@ A professional Windows desktop application simulating an industrial control stat
 ---
 
 ## Architecture
-<div align="center">
-![System Architecture](sys_arch.png)
+<div align="center">    
+<img src="./sys_arch.png" alt="System Architecture" width="200" />
+  <br />
+  <br />
 </div>
 ---
 
 ## State Machine
 <div align="center">
-![State Machine](st_mchn.png)
-</div>
+<img src="./st_mchn.png" alt="State Machine" width="200" />
+  <br />
+  <br />
+</div>  
 
 ## Installation
 
