@@ -23,17 +23,24 @@ A professional Windows desktop application simulating an industrial control stat
 
 ---
 
+## UI
+<div align="center">    
+<img src="./ui_ss.png" alt="System Architecture" width="800" />
+  <br />
+  <br />
+</div>
+
+
 ## Architecture
 <div align="center">    
 <img src="./sys_arch.png" alt="System Architecture" width="900" />
   <br />
   <br />
 </div>
----
 
 ## State Machine
 <div align="center">
-<img src="./st_mchn.png" alt="State Machine" width="500" />
+<img src="./st_mchn.png" alt="State Machine" width="300" />
   <br />
   <br />
 </div>  
@@ -65,6 +72,19 @@ dotnet build
 # Run application
 dotnet run --project ControlStationSimulator/ControlStationSimulator.csproj
 ```
+
+---
+
+## How to Run
+
+**Simple:** Just double-click `START.bat` in the project folder!
+
+Or from terminal:
+```bash
+START.bat
+```
+
+The application window will open automatically.
 
 ---
 
